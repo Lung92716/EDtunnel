@@ -12,7 +12,7 @@ const proxyIPs = ['cdn.xn--b6gac.eu.org'];
 // if you want to use ipv6 or single proxyIP, please add comment at this line and remove comment at the next line
 //let proxyIP = proxyIPs[Math.floor(Math.random() * proxyIPs.length)];
 // use single proxyIP instead of rando
-let proxyIP = 'cdn.xn--b6gac.eu.org';
+let proxyIP = 'singapore.com';
 // ipv6 proxyIP example remove comment to use
 // let proxyIP = "[2a01:4f8:c2c:123f:64:5:6810:c55a]"
 
